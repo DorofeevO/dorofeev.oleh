@@ -1,0 +1,8 @@
+﻿  WindowsProject1.cpp
+C:\Users\Neaty_Cl\source\repos\WindowsProject1\WindowsProject1.cpp(207,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Neaty_Cl\source\repos\WindowsProject1\WindowsProject1.cpp(335,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Neaty_Cl\source\repos\WindowsProject1\WindowsProject1.cpp(344,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Neaty_Cl\source\repos\WindowsProject1\WindowsProject1.cpp(346,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Neaty_Cl\source\repos\WindowsProject1\WindowsProject1.cpp(349,48): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Neaty_Cl\source\repos\WindowsProject1\WindowsProject1.cpp(350,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  WindowsProject1.vcxproj -> C:\Users\Neaty_Cl\source\repos\WindowsProject1\x64\Debug\WindowsProject1.exe
